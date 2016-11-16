@@ -20,5 +20,6 @@ El juego contiene **dos tablas** (una en cada modelo de pantalla) que informan a
 
 ####PROBLEMAS ENCONTRADOS
 
-- Hay un cierto **desorden** entre equipos. En el _ordenador del instituto_ no funciona como debería el código (todo se ve **descolocado**,
-las imágenes se muestran en **proporciones diferentes**, hay que **cambiar las dimensiones**...) respecto a mi _ordenador personal_.
+- Hay un cierto **desorden** entre equipos. En el _ordenador del instituto_ no funciona como debería el código (todo se ve **descolocado**, las imágenes se muestran en **proporciones diferentes**, hay que **cambiar las dimensiones**...) respecto a mi _ordenador personal_.
+
+- Hay un **icnono sin especificar su uso**. En el documento original, el cliente me ha adjudicado un icono **REPLAY** el cual no aparece en ninguno de los bocetos del videojuego que me ha enviado ni en las especificaciones del videojuego dice donde ponerlo ni su uso ni nada. Por lo tanto, este icono **no lo usaré**.
