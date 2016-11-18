@@ -1,0 +1,63 @@
+    #suelolunar{
+        position: absolute;
+		bottom: 0px;
+		width: 100%;
+    }
+    #myimage{
+        display: block;
+        position: relative;
+        margin: auto;
+		width: 100%;
+   }
+     #nave{
+		position: fixed;
+		text-align: center;
+		top: 0px;
+		width: 20%;
+		margin-right: 45%;
+		margin-left: 45%;
+	 }   
+	 #ajustesiconoajustes{
+		 position: fixed;
+		 right:0px;
+		 width: 15%;
+		 height: fixed;
+	 }
+	 #ajustesiconoaltavoz{
+		 position: fixed;
+		 right: 0px;
+		 top: 150px;
+		 width: 15%;
+		 height: fixed;
+	 }
+	 #ajustesiconoaltavozoff{
+		 position: fixed;
+		 right: 0px;
+		 top: 300px;
+		 width: 15%;
+		 height: fixed;
+	 }
+	 #ajustesiconopause{
+		 position: fixed;
+		 right: 0px;
+		 top: 400px;
+		 width: 15%;
+		 height: fixed;
+	 }
+	 #ajustesiconoplay{
+		 position: fixed;
+		 right: 0px;
+		 top: 550px;
+		 width: 15%;
+		 height: fixed;
+	 }
+	 #menu-juego{
+	 background: transparent;
+	 width: 100px;
+	 height: 100px;
+	 font-size: 50px;
+	 font-style: bold;
+	 }
+	 	 #texto{
+	 color: white;
+	 }
