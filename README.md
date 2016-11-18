@@ -20,7 +20,7 @@ El juego contiene **dos tablas** (una en cada modelo de pantalla) que informan a
 
 ####PANEL DE INSTRUCCIONES
 
-He creado un **html aparte** para que el jugador pueda ver las instrucciones del juego. Para ello, a través del icono de **Ajustes** al hacer clic redirecciona al html de las instrucciones. El _css_ está guardado en el mismo css que la página principal. El único **problema** es que al quitar el fondo del bloque donde done sale la información **la letra no se ve** porque es negra como el fondo y no me deja cambiar el color.
+He creado un **html aparte** para que el jugador pueda ver las instrucciones del juego. Para ello, a través del icono de **Ajustes** al hacer clic redirecciona al html de las instrucciones. El _css_ está guardado en el mismo css que la página principal para ambos modelos. Las letras son blancas para que se vean con el fondo negro.
 
 ####ICONOS
 
