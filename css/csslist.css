@@ -11,11 +11,9 @@
    }
      #nave{
 		position: fixed;
-		text-align: center;
-		top: 0px;
+		top: 5%;
 		width: 20%;
-		margin-right: 45%;
-		margin-left: 45%;
+		text-align: center;
 	 }   
 	 #ajustesiconoajustes{
 		 position: fixed;
@@ -63,9 +61,12 @@
 	 background: transparent;
 	 width: 800px;
 	 height: 320px;
-	 font-size:200%;
+	 font-size:250%;
 	 }
 	 #texto{
 	 color: white;
+	 }
+	 #volver{
+	 bottom: 5%;
 	 }
    
